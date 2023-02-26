@@ -1,5 +1,5 @@
 # FreeCodeCamp-Responsive-Web-Design
-Responsive Web Design done by freeCodeCamp.org .The following are the Projects & Assignments done in the course:
+Responsive Web Design done by freeCodeCamp.org .The following are the Projects & Assignments done in the course:-
 
 Build a Survey Form.
 
