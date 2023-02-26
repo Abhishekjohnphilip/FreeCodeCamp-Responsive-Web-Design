@@ -1,1 +1,1 @@
-![Building Quiz](https://user-images.githubusercontent.com/66247691/221413618-5534800b-78c5-4ca6-9ea1-e09e8b26e662.png)
+![Building Quiz](https://user-images.githubusercontent.com/66247691/221414095-139c7e88-3fa8-412c-b45a-d870a1da2fd2.png)
